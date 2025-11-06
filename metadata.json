@@ -1,0 +1,5 @@
+{
+  "name": "Make It Yours-AI Humanizer Pro",
+  "description": "An application that rewrites AI-generated text to sound more human-like, using the Gemini API to vary sentence structure, vocabulary, and tone for a natural feel.",
+  "requestFramePermissions": []
+}
